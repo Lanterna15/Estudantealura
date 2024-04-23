@@ -1,7 +1,7 @@
 # Estudantealura
 
 Boas vindas ao meu perfil 
-Meu nome é Josué Tavares
+### Olá, me chamo **Josué Tavares**
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
